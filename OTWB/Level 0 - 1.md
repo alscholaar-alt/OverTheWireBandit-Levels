@@ -13,3 +13,5 @@ cat readme
 ```
 Level 1 Passowrd:
 `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
+
+<img width="591" height="161" alt="Screenshot 2026-01-17 at 12 31 06" src="https://github.com/user-attachments/assets/79dbb1f5-9bd9-4254-8ab5-dc216ab4796b" />
